@@ -1,0 +1,2 @@
+At least two teams of at least two people move around the cranium board by completing a task from the category corresponding to the color of the space they land on.
+Only if they complete the task can they roll the die and move forward to the next space showing the color rolled on the die.
